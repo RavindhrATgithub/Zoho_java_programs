@@ -1,0 +1,181 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ImageResizer",
+            "request": "launch",
+            "mainClass": "ImageResizer",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch test_fileCopy",
+            "request": "launch",
+            "mainClass": "test_fileCopy",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch imageFormatChange",
+            "request": "launch",
+            "mainClass": "imageFormatChange",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageCrop",
+            "request": "launch",
+            "mainClass": "ImageCrop",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch imageBuffering",
+            "request": "launch",
+            "mainClass": "imageBuffering",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewTCP",
+            "request": "launch",
+            "mainClass": "NewTCP",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCP_Client",
+            "request": "launch",
+            "mainClass": "TCP_Client",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCP_server",
+            "request": "launch",
+            "mainClass": "TCP_server",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch httpTest",
+            "request": "launch",
+            "mainClass": "httpTest",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageCopy",
+            "request": "launch",
+            "mainClass": "ImageCopy",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamExm1",
+            "request": "launch",
+            "mainClass": "StreamExm1",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileEx2",
+            "request": "launch",
+            "mainClass": "FileEx2",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileEx1",
+            "request": "launch",
+            "mainClass": "FileEx1",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch DifferenceNumInArray",
+            "request": "launch",
+            "mainClass": "DifferenceNumInArray",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixRotation",
+            "request": "launch",
+            "mainClass": "MatrixRotation",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixElementReplace",
+            "request": "launch",
+            "mainClass": "MatrixElementReplace",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckAnagrams",
+            "request": "launch",
+            "mainClass": "CheckAnagrams",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch ByteConversion",
+            "request": "launch",
+            "mainClass": "ByteConversion",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch numberReverse",
+            "request": "launch",
+            "mainClass": "numberReverse",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch fourth",
+            "request": "launch",
+            "mainClass": "fourth",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch Third",
+            "request": "launch",
+            "mainClass": "Third",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch second",
+            "request": "launch",
+            "mainClass": "second",
+            "projectName": "javas_63f70089"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstone",
+            "request": "launch",
+            "mainClass": "firstone",
+            "projectName": "javas_63f70089"
+        }
+    ]
+}
